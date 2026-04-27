@@ -1,0 +1,1 @@
+{"version":3,"file":"CrudBatch.js","sourceRoot":"","sources":["../../../../src/client/sync/bucket/CrudBatch.ts"],"names":[],"mappings":"AAEA;;GAEG;AACH,MAAM,OAAO,SAAS;IAKX;IAIA;IAIA;IAZT;IACE;;OAEG;IACI,IAAiB;IACxB;;OAEG;IACI,QAAiB;IACxB;;OAEG;IACI,QAAqD;QARrD,SAAI,GAAJ,IAAI,CAAa;QAIjB,aAAQ,GAAR,QAAQ,CAAS;QAIjB,aAAQ,GAAR,QAAQ,CAA6C;IAC3D,CAAC;CACL"}

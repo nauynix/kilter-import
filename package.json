@@ -1,0 +1,16 @@
+{
+  "name": "kilter-aurora-import",
+  "version": "1.0.0",
+  "description": "Import old Aurora Kilter Board data into the new Kilter Board app",
+  "type": "module",
+  "scripts": {
+    "import:logbook": "node import-logbook.mjs",
+    "import:likes": "node import-likes-circuits.mjs",
+    "import:logbook:dry": "node import-logbook.mjs --dry-run",
+    "import:likes:dry": "node import-likes-circuits.mjs --dry-run"
+  },
+  "dependencies": {
+    "@powersync/node": "^0.18.0",
+    "better-sqlite3": "*"
+  }
+}
