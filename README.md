@@ -1,5 +1,7 @@
 # I built a tool to import your old Aurora logbook into the new Kilter Board app
 
+**Warning! Proceed at your own risk. The program is provided as-is.**
+
 My Aurora data export has been sitting in limbo after uploading to kilterboard.io/claim. After weeks of waiting, I decided to reverse engineer the new Kilter Board API and build an import tool myself.
 
 **What it imports:**
