@@ -20,7 +20,7 @@ My Aurora data export has been sitting in limbo after uploading to kilterboard.i
 ## Setup
 
 ```bash
-git clone https://github.com/nauynix/kilter-import.git && cd kilter-aurora-import
+git clone https://github.com/nauynix/kilter-import.git && cd kilter-import
 npm install
 ```
 
